@@ -539,3 +539,5 @@ h1,h2,h3,h4{font-weight:600;line-height:1.07;letter-spacing:-.035em}
   .ring__fg{stroke-dashoffset:0!important}
   .check{stroke-dashoffset:0!important}
 }
+
+.hero__video{width:100%;aspect-ratio:6/7;min-height:420px;object-fit:cover;border-radius:18px;display:block;background:#F5F5F7}
